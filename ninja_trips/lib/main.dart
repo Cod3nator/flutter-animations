@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:ninja_trips/screens/home.dart';
 
+import 'package:ninja_trips/shared/screenTitle.dart';
+
 void main() {
   runApp(MyApp());
 }
